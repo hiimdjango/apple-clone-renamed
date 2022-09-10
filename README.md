@@ -4,6 +4,8 @@
 > *I did not design this website, this is just a few hours coding challenge. you can compare with  [original website](https://apple.com)*.
 
 > This is a non lucrative project, feel free to fork or make PRs to improve it. Everyone is welcome to contribute.
+
+> All the images and design are Apple properties. *Copyright © 2022 Apple Inc. All rights reserved*.
 ---
 ![alt text](./apple-clone.png)
 

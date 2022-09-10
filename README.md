@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# 🍎 Apple Clone Website
+## NOT RESPONSIVE! SUPPORTS ONLY DESKTOP. 🖥️
+---
+> *I did not design this website, this is just a few hours coding challenge. you can compare with  [original website](https://apple.com)*.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> This is a non lucrative project, feel free to fork or make PRs to improve it. Everyone is welcome to contribute.
+---
+![alt text](./apple-clone.png)
+
+---
+
 
 ## Available Scripts
 
